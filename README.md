@@ -1,4 +1,8 @@
+<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")] -->
+
 ### Hi there 👋
+<h1 align="center">My Name is Olha Gruzglina</h1>
+<h3 align="center">I am a Full Stack Software Engineer Currently Looking For Employment Opportunities</h3>
 
 <!--
 **ogruzglina/ogruzglina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
