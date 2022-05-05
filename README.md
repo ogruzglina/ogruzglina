@@ -1,7 +1,8 @@
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")] -->
+<img align="center" src = "flag.jpeg" alt = "Ukrainian flag" height = '250px' width = 100%/>
 
-### Hi there 👋
-<h1 align="center">My Name is Olha Gruzglina</h1>
+<!-- ## Hi there 👋 -->
+
+<h1 align="center">My name is Olha Gruzglina</h1>
 <h3 align="center">I am a Full Stack Software Engineer Currently Looking For Employment Opportunities</h3>
 
 <!--
