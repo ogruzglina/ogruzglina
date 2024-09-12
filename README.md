@@ -3,7 +3,7 @@
 <!-- ## Hi there 👋 -->
 
 <h1 align="center">My name is Olha Gruzglina</h1>
-<h3 align="center">I am a Full Stack Software Engineer Currently Looking For Employment Opportunities</h3>
+<h3 align="center">I am a Software Engineer Currently at QsrSoft</h3>
 
 <h4 align="center">You can find me:</h3>
 <div align='center'>
