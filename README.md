@@ -10,12 +10,12 @@
   <a href="https://www.linkedin.com/in/olha-gruzglina-a4403b53/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://dev.to/ogruzglina">
+<!--   <a href="https://dev.to/ogruzglina">
     <img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&logoColor=white&style=for-the-badge" alt="Dev.to Badge"/>
-  </a>
+  </a> -->
 </div>
 
-
+<!--
 ### &#x1f4c8; GitHub Stats
 <div align='center'>
   <a href="https://github.com/ogruzglina">
@@ -26,3 +26,4 @@
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ogruzglina&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
   </a>
 </div>
+-->
